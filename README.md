@@ -12,13 +12,13 @@ Curso 2017-2018
 - [Introduccion y proposito](#introduccion-y-proposito)
 - [Indice de laboratorios](#indice-de-laboratorios)
     - [Lab0. Configuracion del entorno](#lab0-configuracion-del-entorno)
-    - [Lab1. parte Web](#lab1-parte-web)
+<!--    - [Lab1. Parte Web](#lab1-parte-web)
     - [Lab2. Persistencia](#lab2-persistencia)
     - [Lab3. EJB](#lab3-ejb)
     - [Lab4. CDI](#lab4-cdi)
     - [Lab5. JBoss Forge](#lab5-jboss-forge)
     - [Lab6. Servicios REST](#lab6-servicios-rest)
-    - [Lab7. SpringBoot](#lab7-springboot)
+    - [Lab7. SpringBoot](#lab7-springboot) -->
 - [Anexos](#anexos)
 - [Disclaimer](#disclaimer)
 
